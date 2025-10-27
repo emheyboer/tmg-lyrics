@@ -39,7 +39,6 @@ export default function InfoModal({
           If you have comments or suggestions, contact me by{" "}
           <a href="mailto:shayna.kothari@gmail.com">email</a>!
         </p>
-        <p style={{ fontSize: "12px" }}>p.s. if you have thoughts on what I should do about the better than revenge lyric change... contact me</p>
       </div>
     </div>
   );
