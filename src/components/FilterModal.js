@@ -1,7 +1,7 @@
 // @flow
 import "../style/FilterModal.css";
 import { isMobile } from "./utils";
-import { ALBUMS } from "./constants";
+import { ALBUMS } from "../lyrics/out/album_list";
 import React, { useState } from "react";
 import FilterSelection from "./FilterSelection";
 

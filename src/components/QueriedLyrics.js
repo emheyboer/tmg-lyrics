@@ -4,8 +4,8 @@ import React from "react";
 import SongLyric from "./SongLyric";
 import { containsQuery, isMobile, queriesFound } from "./utils.js";
 
-const lyricsJSON = require("../taylor-swift-lyrics/lyrics.json");
-const albumMap = require("../taylor-swift-lyrics/album_map.json");
+const lyricsJSON = require("../lyrics/out/lyrics.json");
+const albumMap = require("../lyrics/out/album_map.json");
 const mobile = isMobile();
 type QueriedLyricsProps = {
   queries: Array<string>,
