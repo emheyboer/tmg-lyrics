@@ -26,3 +26,7 @@ yarn-error.log*
 
 # constants
 /src/components/constants.js
+
+# lyrics
+/src/lyrics/out
+/src/lyrics/*.xml
