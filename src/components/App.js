@@ -99,7 +99,7 @@ function App(): React$MixedElement {
         </div>
       )}
       {queries.length === 0 ? <div className="tips">
-          for all the showgirls out there
+          for all the peter balkan stans out there
         </div> : null}
       <InputBox
         submitHandler={searchHandler}
