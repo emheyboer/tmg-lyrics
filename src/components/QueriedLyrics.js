@@ -70,7 +70,7 @@ export default function QueriedLyrics({
           .map((album) =>
             Object.keys(lyricsJSON[album]).map((song) =>
               lyricsJSON[album][song].map((songLyric) => {
-                if (albumMap[album] == undefined) {
+                if (albumMap[album] === undefined) {
                   console.log(song);
                 console.log(album);
                 }
