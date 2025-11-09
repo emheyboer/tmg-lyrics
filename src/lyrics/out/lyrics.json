@@ -94896,6 +94896,182 @@
         "multiplicity": 1
       }
     ],
+    "Broken To Begin With": [
+      {
+        "prev": "",
+        "lyric": "Men of old who sailed the seas",
+        "next": "Bringing nations to their knees",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Men of old who sailed the seas",
+        "lyric": "Bringing nations to their knees",
+        "next": "Turning up the remnants of our campsite",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Bringing nations to their knees",
+        "lyric": "Turning up the remnants of our campsite",
+        "next": "Would never know it kept three people warm at night",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Turning up the remnants of our campsite",
+        "lyric": "Would never know it kept three people warm at night",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Survey the clumsy architecture",
+        "next": "Idly make a few conjectures",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Survey the clumsy architecture",
+        "lyric": "Idly make a few conjectures",
+        "next": "Scribble some conclusions in a ledger",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Idly make a few conjectures",
+        "lyric": "Scribble some conclusions in a ledger",
+        "next": "Never knowing better",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Scribble some conclusions in a ledger",
+        "lyric": "Never knowing better",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Like anything you ever come across",
+        "next": "Before you knew about it, it got lost",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Like anything you ever come across",
+        "lyric": "Before you knew about it, it got lost",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "It was broken to begin with",
+        "next": "It was broken to begin with",
+        "multiplicity": 2
+      },
+      {
+        "prev": "It was broken to begin with",
+        "lyric": "It was broken to begin with",
+        "next": "It was like that when we got here",
+        "multiplicity": 2
+      },
+      {
+        "prev": "It was broken to begin with",
+        "lyric": "It was like that when we got here",
+        "next": "It was broken to begin with",
+        "multiplicity": 1
+      },
+      {
+        "prev": "It was like that when we got here",
+        "lyric": "It was broken to begin with",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "When the archaeologists arrive",
+        "next": "No proof that we were ever here alive",
+        "multiplicity": 1
+      },
+      {
+        "prev": "When the archaeologists arrive",
+        "lyric": "No proof that we were ever here alive",
+        "next": "Me and Peter Balkan and you, friend",
+        "multiplicity": 1
+      },
+      {
+        "prev": "No proof that we were ever here alive",
+        "lyric": "Me and Peter Balkan and you, friend",
+        "next": "Until the dream ran out of oxygen",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Me and Peter Balkan and you, friend",
+        "lyric": "Until the dream ran out of oxygen",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Is this not what you wanted from the sea?",
+        "next": "Is this not what the waves require of me?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Is this not what you wanted from the sea?",
+        "lyric": "Is this not what the waves require of me?",
+        "next": "Isn't this what we suspect we'll see",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Is this not what the waves require of me?",
+        "lyric": "Isn't this what we suspect we'll see",
+        "next": "On the day we finally get free?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Isn't this what we suspect we'll see",
+        "lyric": "On the day we finally get free?",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "And if that day turns out to be today",
+        "next": "Maybe that's okay",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And if that day turns out to be today",
+        "lyric": "Maybe that's okay",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "It was broken to begin with",
+        "lyric": "It was like that when we got here",
+        "next": "It was like this when we got here",
+        "multiplicity": 1
+      },
+      {
+        "prev": "It was like that when we got here",
+        "lyric": "It was like this when we got here",
+        "next": "It was broken to begin with",
+        "multiplicity": 1
+      },
+      {
+        "prev": "It was like this when we got here",
+        "lyric": "It was broken to begin with",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Well, the first thing you learn is how far you can go with no gas in the tank",
+        "next": "And the next thing you learn is how cold it can get at night",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Well, the first thing you learn is how far you can go with no gas in the tank",
+        "lyric": "And the next thing you learn is how cold it can get at night",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
     "Cold at Night": [
       {
         "prev": "",
@@ -95080,6 +95256,618 @@
       {
         "prev": "(And the next thing you learn is how cold it can get at night)",
         "lyric": "And the next thing you learn is how cold it can get at night",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Dawn of Revelation": [
+      {
+        "prev": "",
+        "lyric": "We who gather by this fire",
+        "next": "To remember who we were",
+        "multiplicity": 1
+      },
+      {
+        "prev": "We who gather by this fire",
+        "lyric": "To remember who we were",
+        "next": "To recall the days of yore",
+        "multiplicity": 1
+      },
+      {
+        "prev": "To remember who we were",
+        "lyric": "To recall the days of yore",
+        "next": "To recall the days before",
+        "multiplicity": 1
+      },
+      {
+        "prev": "To recall the days of yore",
+        "lyric": "To recall the days before",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Hear the crackling, stoke the flames",
+        "next": "Conjure long-forgotten names",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Hear the crackling, stoke the flames",
+        "lyric": "Conjure long-forgotten names",
+        "next": "Look long enough and see",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Conjure long-forgotten names",
+        "lyric": "Look long enough and see",
+        "next": "Where the referent wriggles free",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Look long enough and see",
+        "lyric": "Where the referent wriggles free",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I will turn these stones to bread",
+        "next": "And all who hunger will be fed",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I will turn these stones to bread",
+        "lyric": "And all who hunger will be fed",
+        "next": "Plates will shift and the earth will groan",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And all who hunger will be fed",
+        "lyric": "Plates will shift and the earth will groan",
+        "next": "And no one here is going to die alone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Plates will shift and the earth will groan",
+        "lyric": "And no one here is going to die alone",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Live in hope, walk in fear",
+        "next": "Let them come, let them gather here",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Live in hope, walk in fear",
+        "lyric": "Let them come, let them gather here",
+        "next": "Meaning well, boding ill",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Let them come, let them gather here",
+        "lyric": "Meaning well, boding ill",
+        "next": "Let their hundreds crest the hill",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Meaning well, boding ill",
+        "lyric": "Let their hundreds crest the hill",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "As you were, so they are",
+        "next": "Orphans from a dying star",
+        "multiplicity": 1
+      },
+      {
+        "prev": "As you were, so they are",
+        "lyric": "Orphans from a dying star",
+        "next": "Let them cluster, each to each",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Orphans from a dying star",
+        "lyric": "Let them cluster, each to each",
+        "next": "Like smooth rocks on a distant beach",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Let them cluster, each to each",
+        "lyric": "Like smooth rocks on a distant beach",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Look upon them there and know",
+        "next": "We will all go when we go",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Look upon them there and know",
+        "lyric": "We will all go when we go",
+        "next": "Look into these eyes and see",
+        "multiplicity": 1
+      },
+      {
+        "prev": "We will all go when we go",
+        "lyric": "Look into these eyes and see",
+        "next": "How we all will be made free",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Look into these eyes and see",
+        "lyric": "How we all will be made free",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Beyond the grasp of the grave",
+        "next": "Free as driftwood on the waves",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Beyond the grasp of the grave",
+        "lyric": "Free as driftwood on the waves",
+        "next": "Through their fingers like a fish",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free as driftwood on the waves",
+        "lyric": "Through their fingers like a fish",
+        "next": "Free from the clutches of the flesh",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Through their fingers like a fish",
+        "lyric": "Free from the clutches of the flesh",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I will bring this word to them",
+        "next": "Last to first and stern to stem",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I will bring this word to them",
+        "lyric": "Last to first and stern to stem",
+        "next": "The king's gonna sit upon the throne",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Last to first and stern to stem",
+        "lyric": "The king's gonna sit upon the throne",
+        "next": "And no one here is gonna die alone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The king's gonna sit upon the throne",
+        "lyric": "And no one here is gonna die alone",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Yeah",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Fishing Boat": [
+      {
+        "prev": "",
+        "lyric": "Free as the wind on the ocean",
+        "next": "Wild as the rain in the storm",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free as the wind on the ocean",
+        "lyric": "Wild as the rain in the storm",
+        "next": "Immense out on the grand horizon",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Wild as the rain in the storm",
+        "lyric": "Immense out on the grand horizon",
+        "next": "As a thunderhead taking form",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Immense out on the grand horizon",
+        "lyric": "As a thunderhead taking form",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Turn in with the stars on the water",
+        "next": "Rise with the tides in the dawn",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Turn in with the stars on the water",
+        "lyric": "Rise with the tides in the dawn",
+        "next": "Be your own boss for the summer",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Rise with the tides in the dawn",
+        "lyric": "Be your own boss for the summer",
+        "next": "Seize the moment before it's gone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Be your own boss for the summer",
+        "lyric": "Seize the moment before it's gone",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Sixteen on a fishing boat",
+        "next": "Learning to float",
+        "multiplicity": 2
+      },
+      {
+        "prev": "Sixteen on a fishing boat",
+        "lyric": "Learning to float",
+        "next": "",
+        "multiplicity": 2
+      },
+      {
+        "prev": "",
+        "lyric": "Some who keep their secrets like treasure",
+        "next": "Some who tend to cling to the coast",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Some who keep their secrets like treasure",
+        "lyric": "Some who tend to cling to the coast",
+        "next": "No one who can stand staying landlocked",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Some who tend to cling to the coast",
+        "lyric": "No one who can stand staying landlocked",
+        "next": "For longer than a month at most",
+        "multiplicity": 1
+      },
+      {
+        "prev": "No one who can stand staying landlocked",
+        "lyric": "For longer than a month at most",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Free as the churn of the riptide",
+        "next": "Free as a wreck in the drift",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free as the churn of the riptide",
+        "lyric": "Free as a wreck in the drift",
+        "next": "Nothing's ever promised to anyone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free as a wreck in the drift",
+        "lyric": "Nothing's ever promised to anyone",
+        "next": "Everything you get is a gift",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Nothing's ever promised to anyone",
+        "lyric": "Everything you get is a gift",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Learning to swim",
+        "next": "Learning how to tread water",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Learning to swim",
+        "lyric": "Learning how to tread water",
+        "next": "Learning how to raise our cries to the skies",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Learning how to tread water",
+        "lyric": "Learning how to raise our cries to the skies",
+        "next": "Like seals to the slaughter",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Learning how to raise our cries to the skies",
+        "lyric": "Like seals to the slaughter",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Still as the sky on the ocean",
+        "next": "Mute as the moon overhead",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Still as the sky on the ocean",
+        "lyric": "Mute as the moon overhead",
+        "next": "Me and Peter Balkan and you, friend",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Mute as the moon overhead",
+        "lyric": "Me and Peter Balkan and you, friend",
+        "next": "Everybody else is dead",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Me and Peter Balkan and you, friend",
+        "lyric": "Everybody else is dead",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Turning where the rain won't reach us",
+        "next": "Rise with the sun all alone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Turning where the rain won't reach us",
+        "lyric": "Rise with the sun all alone",
+        "next": "Be your own boss for the summer",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Rise with the sun all alone",
+        "lyric": "Be your own boss for the summer",
+        "next": "Just once before you're grown",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Be your own boss for the summer",
+        "lyric": "Just once before you're grown",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Sixteen on a fishing boat",
+        "next": "Sixteen on a fishing boat",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sixteen on a fishing boat",
+        "lyric": "Sixteen on a fishing boat",
+        "next": "Sixteen on a fishing boat",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sixteen on a fishing boat",
+        "lyric": "Sixteen on a fishing boat",
+        "next": "We are learning to float",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sixteen on a fishing boat",
+        "lyric": "We are learning to float",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Peru": [
+      {
+        "prev": "",
+        "lyric": "You were already talking when I woke up today",
+        "next": "For a man on combat rations, you sure do find a lot to say",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You were already talking when I woke up today",
+        "lyric": "For a man on combat rations, you sure do find a lot to say",
+        "next": "Try to fix my attention, can't clear my head",
+        "multiplicity": 1
+      },
+      {
+        "prev": "For a man on combat rations, you sure do find a lot to say",
+        "lyric": "Try to fix my attention, can't clear my head",
+        "next": "Sun clearing the waterline",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Try to fix my attention, can't clear my head",
+        "lyric": "Sun clearing the waterline",
+        "next": "Hot and deadly and red",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sun clearing the waterline",
+        "lyric": "Hot and deadly and red",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Like the flowers you said you wrote about",
+        "next": "About a million years ago, you said they grew",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Like the flowers you said you wrote about",
+        "lyric": "About a million years ago, you said they grew",
+        "next": "On a distant mountain in Peru",
+        "multiplicity": 1
+      },
+      {
+        "prev": "About a million years ago, you said they grew",
+        "lyric": "On a distant mountain in Peru",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I don't want the water to break you",
+        "next": "Let me lead you back to the fire",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I don't want the water to break you",
+        "lyric": "Let me lead you back to the fire",
+        "next": "You've always got a little further to drop",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Let me lead you back to the fire",
+        "lyric": "You've always got a little further to drop",
+        "next": "When you've risen that much higher",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You've always got a little further to drop",
+        "lyric": "When you've risen that much higher",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Fear in my heart like a shadow",
+        "next": "I can't let it linger too long",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Fear in my heart like a shadow",
+        "lyric": "I can't let it linger too long",
+        "next": "When your gift begins to consume you",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I can't let it linger too long",
+        "lyric": "When your gift begins to consume you",
+        "next": "One of us will have to be strong",
+        "multiplicity": 1
+      },
+      {
+        "prev": "When your gift begins to consume you",
+        "lyric": "One of us will have to be strong",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Like the flowers that die in the winter",
+        "next": "But never fail to grow back new",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Like the flowers that die in the winter",
+        "lyric": "But never fail to grow back new",
+        "next": "In the cracks down in the canyons in Peru",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But never fail to grow back new",
+        "lyric": "In the cracks down in the canyons in Peru",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "In the deep crevices where you wouldn't think the light could reach",
+        "next": "Distant as a dream of the cradle on this lonesome beach",
+        "multiplicity": 1
+      },
+      {
+        "prev": "In the deep crevices where you wouldn't think the light could reach",
+        "lyric": "Distant as a dream of the cradle on this lonesome beach",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Let the man whose heart would know peace",
+        "next": "Praise all the things that he should praise",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Let the man whose heart would know peace",
+        "lyric": "Praise all the things that he should praise",
+        "next": "Just about a week in the future",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Praise all the things that he should praise",
+        "lyric": "Just about a week in the future",
+        "next": "These are going to seem like the good days",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Just about a week in the future",
+        "lyric": "These are going to seem like the good days",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Because the snake is going to rise from the pit",
+        "next": "And brother will turn against brother",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Because the snake is going to rise from the pit",
+        "lyric": "And brother will turn against brother",
+        "next": "We won't have a minute to lose",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And brother will turn against brother",
+        "lyric": "We won't have a minute to lose",
+        "next": "At most we'll only have each other",
+        "multiplicity": 1
+      },
+      {
+        "prev": "We won't have a minute to lose",
+        "lyric": "At most we'll only have each other",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Like the flowers you said you saw when you were young",
+        "next": "When you were still you",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Like the flowers you said you saw when you were young",
+        "lyric": "When you were still you",
+        "next": "Like the flowers you may have imagined",
+        "multiplicity": 1
+      },
+      {
+        "prev": "When you were still you",
+        "lyric": "Like the flowers you may have imagined",
+        "next": "Doing what their nature tells them to",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Like the flowers you may have imagined",
+        "lyric": "Doing what their nature tells them to",
+        "next": "Worlds away in the wind in Peru",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Doing what their nature tells them to",
+        "lyric": "Worlds away in the wind in Peru",
         "next": "",
         "multiplicity": 1
       }
@@ -95328,6 +96116,620 @@
       {
         "prev": "Rocks in my pockets when I go",
         "lyric": "Rocks in my pockets when I go",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "The Lady from Shanghai 2": [
+      {
+        "prev": "",
+        "lyric": "When I was a young man, I",
+        "next": "Sank into the shadows where the edge begins to blur",
+        "multiplicity": 1
+      },
+      {
+        "prev": "When I was a young man, I",
+        "lyric": "Sank into the shadows where the edge begins to blur",
+        "next": "And when I was a young man, I",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sank into the shadows where the edge begins to blur",
+        "lyric": "And when I was a young man, I",
+        "next": "Sought out the places where the shadows were",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And when I was a young man, I",
+        "lyric": "Sought out the places where the shadows were",
+        "next": "And then luck found me",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sought out the places where the shadows were",
+        "lyric": "And then luck found me",
+        "next": "Out on the open sea",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And then luck found me",
+        "lyric": "Out on the open sea",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Hoisting up the mainsail high",
+        "next": "Emblem of the mirror in the stitching on the ocean breeze",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Hoisting up the mainsail high",
+        "lyric": "Emblem of the mirror in the stitching on the ocean breeze",
+        "next": "Nibbles in the nets all night",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Emblem of the mirror in the stitching on the ocean breeze",
+        "lyric": "Nibbles in the nets all night",
+        "next": "Kings up in their castles not arrayed like these",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Nibbles in the nets all night",
+        "lyric": "Kings up in their castles not arrayed like these",
+        "next": "Out there where the dreams come from",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Kings up in their castles not arrayed like these",
+        "lyric": "Out there where the dreams come from",
+        "next": "When will my moment come?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Out there where the dreams come from",
+        "lyric": "When will my moment come?",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Everything that sinks will float",
+        "next": "Everything that sinks will float",
+        "multiplicity": 2
+      },
+      {
+        "prev": "Everything that sinks will float",
+        "lyric": "Everything that sinks will float",
+        "next": "We went down to the boat",
+        "multiplicity": 2
+      },
+      {
+        "prev": "Everything that sinks will float",
+        "lyric": "We went down to the boat",
+        "next": "",
+        "multiplicity": 2
+      },
+      {
+        "prev": "",
+        "lyric": "When we built the fire, I knew",
+        "next": "When the smoke settled, it would come down to us two",
+        "multiplicity": 1
+      },
+      {
+        "prev": "When we built the fire, I knew",
+        "lyric": "When the smoke settled, it would come down to us two",
+        "next": "Just a lucky guess, you know",
+        "multiplicity": 1
+      },
+      {
+        "prev": "When the smoke settled, it would come down to us two",
+        "lyric": "Just a lucky guess, you know",
+        "next": "Show me the places where the lucky guesses go",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Just a lucky guess, you know",
+        "lyric": "Show me the places where the lucky guesses go",
+        "next": "But when I was a young man, I, I",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Show me the places where the lucky guesses go",
+        "lyric": "But when I was a young man, I, I",
+        "next": "I sought out the sky",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But when I was a young man, I, I",
+        "lyric": "I sought out the sky",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Through This Fire": [
+      {
+        "prev": "",
+        "lyric": "My faith ran out with the flames one night",
+        "next": "Shrinking in the embers of the firelight",
+        "multiplicity": 1
+      },
+      {
+        "prev": "My faith ran out with the flames one night",
+        "lyric": "Shrinking in the embers of the firelight",
+        "next": "You were rambling about your friends",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Shrinking in the embers of the firelight",
+        "lyric": "You were rambling about your friends",
+        "next": "How you were never going to see them again",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You were rambling about your friends",
+        "lyric": "How you were never going to see them again",
+        "next": "There wasn't any fire and brimstone left",
+        "multiplicity": 1
+      },
+      {
+        "prev": "How you were never going to see them again",
+        "lyric": "There wasn't any fire and brimstone left",
+        "next": "Just a hollow rattle inside your chest",
+        "multiplicity": 1
+      },
+      {
+        "prev": "There wasn't any fire and brimstone left",
+        "lyric": "Just a hollow rattle inside your chest",
+        "next": "Deep in the dark of our forty-fifth day",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Just a hollow rattle inside your chest",
+        "lyric": "Deep in the dark of our forty-fifth day",
+        "next": "It wasn't ever going to go away",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Deep in the dark of our forty-fifth day",
+        "lyric": "It wasn't ever going to go away",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I began to understand the things the heat requires",
+        "next": "Looking at you through this fire",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I began to understand the things the heat requires",
+        "lyric": "Looking at you through this fire",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "The last days come and the last days go",
+        "next": "Carried away in the undertow",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last days come and the last days go",
+        "lyric": "Carried away in the undertow",
+        "next": "But on our trust we rise and fall",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Carried away in the undertow",
+        "lyric": "But on our trust we rise and fall",
+        "next": "Human after all",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But on our trust we rise and fall",
+        "lyric": "Human after all",
+        "next": "I calculated one week to go, maybe less",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Human after all",
+        "lyric": "I calculated one week to go, maybe less",
+        "next": "You were slipping in and out of consciousness",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I calculated one week to go, maybe less",
+        "lyric": "You were slipping in and out of consciousness",
+        "next": "What are seven days worth?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You were slipping in and out of consciousness",
+        "lyric": "What are seven days worth?",
+        "next": "Seven days on this earth",
+        "multiplicity": 1
+      },
+      {
+        "prev": "What are seven days worth?",
+        "lyric": "Seven days on this earth",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "More than kings in their castles might desire",
+        "next": "Looking at you through this fire",
+        "multiplicity": 1
+      },
+      {
+        "prev": "More than kings in their castles might desire",
+        "lyric": "Looking at you through this fire",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Through this fire where we were witnesses",
+        "next": "You were reborn",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Through this fire where we were witnesses",
+        "lyric": "You were reborn",
+        "next": "One of the seven at Jericho",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You were reborn",
+        "lyric": "One of the seven at Jericho",
+        "next": "Sounding his horn",
+        "multiplicity": 1
+      },
+      {
+        "prev": "One of the seven at Jericho",
+        "lyric": "Sounding his horn",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Bear me on the breath of dawn",
+        "next": "Very soon we'll both be gone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Bear me on the breath of dawn",
+        "lyric": "Very soon we'll both be gone",
+        "next": "It's getting hard to hear you, friend",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Very soon we'll both be gone",
+        "lyric": "It's getting hard to hear you, friend",
+        "next": "Waiting for the world to end",
+        "multiplicity": 1
+      },
+      {
+        "prev": "It's getting hard to hear you, friend",
+        "lyric": "Waiting for the world to end",
+        "next": "But let isolate the relevant voice in the choir",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Waiting for the world to end",
+        "lyric": "But let isolate the relevant voice in the choir",
+        "next": "Somewhere out there on the wire",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But let isolate the relevant voice in the choir",
+        "lyric": "Somewhere out there on the wire",
+        "next": "I'll run all night but my legs won't tire",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Somewhere out there on the wire",
+        "lyric": "I'll run all night but my legs won't tire",
+        "next": "The ocean is faithful and the devil's a liar",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I'll run all night but my legs won't tire",
+        "lyric": "The ocean is faithful and the devil's a liar",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Looking at you through this fire",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Your Bandage": [
+      {
+        "prev": "",
+        "lyric": "One day the stars will out go out",
+        "next": "And those who can remember when",
+        "multiplicity": 1
+      },
+      {
+        "prev": "One day the stars will out go out",
+        "lyric": "And those who can remember when",
+        "next": "The night sky was a tapestry",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And those who can remember when",
+        "lyric": "The night sky was a tapestry",
+        "next": "Will be acclaimed as prophets then",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The night sky was a tapestry",
+        "lyric": "Will be acclaimed as prophets then",
+        "next": "Will you lie still while I reapply your bandage?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Will be acclaimed as prophets then",
+        "lyric": "Will you lie still while I reapply your bandage?",
+        "next": "Will you lie still while I reapply your bandage?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Will you lie still while I reapply your bandage?",
+        "lyric": "Will you lie still while I reapply your bandage?",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "There's untold riches in the depths",
+        "next": "There's gold inside the jet streams",
+        "multiplicity": 1
+      },
+      {
+        "prev": "There's untold riches in the depths",
+        "lyric": "There's gold inside the jet streams",
+        "next": "There's a message for the people",
+        "multiplicity": 1
+      },
+      {
+        "prev": "There's gold inside the jet streams",
+        "lyric": "There's a message for the people",
+        "next": "Sounding loudly in my dreams",
+        "multiplicity": 1
+      },
+      {
+        "prev": "There's a message for the people",
+        "lyric": "Sounding loudly in my dreams",
+        "next": "Will you lie still while I reapply your bandage?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sounding loudly in my dreams",
+        "lyric": "Will you lie still while I reapply your bandage?",
+        "next": "Will you lie still while I reapply your bandage",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Will you lie still while I reapply your bandage?",
+        "lyric": "Will you lie still while I reapply your bandage",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "On your temple?",
+        "next": "There aren't any people",
+        "multiplicity": 1
+      },
+      {
+        "prev": "On your temple?",
+        "lyric": "There aren't any people",
+        "next": "Remember it's me",
+        "multiplicity": 1
+      },
+      {
+        "prev": "There aren't any people",
+        "lyric": "Remember it's me",
+        "next": "And Adam makes three",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Remember it's me",
+        "lyric": "And Adam makes three",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "One day the stars will all go out",
+        "next": "You're right, you're right, you're right",
+        "multiplicity": 1
+      },
+      {
+        "prev": "One day the stars will all go out",
+        "lyric": "You're right, you're right, you're right",
+        "next": "And light will be a memory",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You're right, you're right, you're right",
+        "lyric": "And light will be a memory",
+        "next": "Shining in the endless night",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And light will be a memory",
+        "lyric": "Shining in the endless night",
+        "next": "Yes, it will",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Shining in the endless night",
+        "lyric": "Yes, it will",
+        "next": "Be still",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Yes, it will",
+        "lyric": "Be still",
+        "next": "Lie at peace",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Be still",
+        "lyric": "Lie at peace",
+        "next": "Soon we'll all be released",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Lie at peace",
+        "lyric": "Soon we'll all be released",
+        "next": "Testify",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Soon we'll all be released",
+        "lyric": "Testify",
+        "next": "While I",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Testify",
+        "lyric": "While I",
+        "next": "Reapply your bandage",
+        "multiplicity": 1
+      },
+      {
+        "prev": "While I",
+        "lyric": "Reapply your bandage",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Your Glow": [
+      {
+        "prev": "",
+        "lyric": "You lost your feeling for the waves before we ran aground",
+        "next": "And you lost thirteen men to the waves, we watched them all go down",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You lost your feeling for the waves before we ran aground",
+        "lyric": "And you lost thirteen men to the waves, we watched them all go down",
+        "next": "Find you babbling in the sand there trying to find the thread",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And you lost thirteen men to the waves, we watched them all go down",
+        "lyric": "Find you babbling in the sand there trying to find the thread",
+        "next": "Spend an hour or so beside you, cradling your head",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Find you babbling in the sand there trying to find the thread",
+        "lyric": "Spend an hour or so beside you, cradling your head",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "It's time for you to go",
+        "next": "But you never lost your glow",
+        "multiplicity": 1
+      },
+      {
+        "prev": "It's time for you to go",
+        "lyric": "But you never lost your glow",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "You lost a lot of sleep before the fever broke",
+        "next": "And you found a kingdom by the fire rising in the smoke",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You lost a lot of sleep before the fever broke",
+        "lyric": "And you found a kingdom by the fire rising in the smoke",
+        "next": "Leave you here, or let the ocean claim you for its own?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And you found a kingdom by the fire rising in the smoke",
+        "lyric": "Leave you here, or let the ocean claim you for its own?",
+        "next": "Keep you here, or tithe you to the tides to die here all alone?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Leave you here, or let the ocean claim you for its own?",
+        "lyric": "Keep you here, or tithe you to the tides to die here all alone?",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Breathing through your visions, soft and slow",
+        "next": "You never lost your glow",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Breathing through your visions, soft and slow",
+        "lyric": "You never lost your glow",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Your light, your signal, fifteen did respond",
+        "next": "Just me left now, and you about to learn what lies beyond",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Your light, your signal, fifteen did respond",
+        "lyric": "Just me left now, and you about to learn what lies beyond",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "When we wake up from the big dreams of empires in the surf",
+        "next": "If there's nothing left but water, then let water be enough",
+        "multiplicity": 1
+      },
+      {
+        "prev": "When we wake up from the big dreams of empires in the surf",
+        "lyric": "If there's nothing left but water, then let water be enough",
+        "next": "Thirteen gone, one vanished, you well on your way",
+        "multiplicity": 1
+      },
+      {
+        "prev": "If there's nothing left but water, then let water be enough",
+        "lyric": "Thirteen gone, one vanished, you well on your way",
+        "next": "Adrift for half your life, headed home today",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Thirteen gone, one vanished, you well on your way",
+        "lyric": "Adrift for half your life, headed home today",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Be still and know",
+        "next": "You never lost your glow",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Be still and know",
+        "lyric": "You never lost your glow",
         "next": "",
         "multiplicity": 1
       }
