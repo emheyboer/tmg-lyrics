@@ -6,6 +6,7 @@ export const ALBUMS = [
   "Cassettes",
   "Collaborations/Compilations/Covers",
   "Dark in Here",
+  "Days",
   "Full Force Galesburg",
   "Get Lonely",
   "Getting Into Knives",
