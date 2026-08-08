@@ -5605,7 +5605,7 @@
         "prev": "And I let my hand rest a minute on your stomach",
         "lyric": "Like there was nothing to it",
         "next": "",
-        "multiplicity": 3
+        "multiplicity": 2
       },
       {
         "prev": "",
@@ -5644,7 +5644,13 @@
         "multiplicity": 2
       },
       {
-        "prev": "",
+        "prev": "And I let my hand rest a minute on your stomach",
+        "lyric": "Like there was nothing to it",
+        "next": "Yeah",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Like there was nothing to it",
         "lyric": "Yeah",
         "next": "",
         "multiplicity": 1
@@ -43196,17 +43202,17 @@
       {
         "prev": "",
         "lyric": "You have got that look in your eyes",
-        "next": "In the pinprick place where kindness goes to die",
+        "next": "In the pinprick point where kindness goes to die",
         "multiplicity": 1
       },
       {
         "prev": "You have got that look in your eyes",
-        "lyric": "In the pinprick place where kindness goes to die",
+        "lyric": "In the pinprick point where kindness goes to die",
         "next": "I'll be six years old next year",
         "multiplicity": 1
       },
       {
-        "prev": "In the pinprick place where kindness goes to die",
+        "prev": "In the pinprick point where kindness goes to die",
         "lyric": "I'll be six years old next year",
         "next": "You erase me",
         "multiplicity": 1
@@ -43243,18 +43249,18 @@
       },
       {
         "prev": "",
-        "lyric": "And a few years later, I set out on my own",
-        "next": "Learned to take the reins up all by myself",
+        "lyric": "When I got bigger, I set out on my own",
+        "next": "Took up the reins myself, all for you",
         "multiplicity": 1
       },
       {
-        "prev": "And a few years later, I set out on my own",
-        "lyric": "Learned to take the reins up all by myself",
+        "prev": "When I got bigger, I set out on my own",
+        "lyric": "Took up the reins myself, all for you",
         "next": "Dug the spurs in clean down to the bone",
         "multiplicity": 1
       },
       {
-        "prev": "Learned to take the reins up all by myself",
+        "prev": "Took up the reins myself, all for you",
         "lyric": "Dug the spurs in clean down to the bone",
         "next": "",
         "multiplicity": 1
@@ -95025,6 +95031,1754 @@
       }
     ]
   },
+  "Days": {
+    "Annie Haslam Imperial Phase": [
+      {
+        "prev": "",
+        "lyric": "Six years' hard labor on the heavy blues",
+        "next": "They haggled and bargained when we gave them the news",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Six years' hard labor on the heavy blues",
+        "lyric": "They haggled and bargained when we gave them the news",
+        "next": "One more long shift, then free to do as we please",
+        "multiplicity": 1
+      },
+      {
+        "prev": "They haggled and bargained when we gave them the news",
+        "lyric": "One more long shift, then free to do as we please",
+        "next": "Stay home and stare at the trees",
+        "multiplicity": 1
+      },
+      {
+        "prev": "One more long shift, then free to do as we please",
+        "lyric": "Stay home and stare at the trees",
+        "next": "Crystal-clear transmission",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Stay home and stare at the trees",
+        "lyric": "Crystal-clear transmission",
+        "next": "In January '71 at the audition",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Crystal-clear transmission",
+        "lyric": "In January '71 at the audition",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Maybe you don't recall",
+        "next": "But Renaissance played at Carnegie Hall",
+        "multiplicity": 3
+      },
+      {
+        "prev": "Maybe you don't recall",
+        "lyric": "But Renaissance played at Carnegie Hall",
+        "next": "Maybe you don't recall",
+        "multiplicity": 5
+      },
+      {
+        "prev": "But Renaissance played at Carnegie Hall",
+        "lyric": "Maybe you don't recall",
+        "next": "But Renaissance played at Carnegie Hall",
+        "multiplicity": 5
+      },
+      {
+        "prev": "Maybe you don't recall",
+        "lyric": "But Renaissance played at Carnegie Hall",
+        "next": "",
+        "multiplicity": 3
+      },
+      {
+        "prev": "",
+        "lyric": "Can't have the heavy drinking, there's bills to be paid",
+        "next": "Money to be made",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Can't have the heavy drinking, there's bills to be paid",
+        "lyric": "Money to be made",
+        "next": "And no, before you ask, it isn't all about greed",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Money to be made",
+        "lyric": "And no, before you ask, it isn't all about greed",
+        "next": "But you can't do what you like if you can't get what you need",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And no, before you ask, it isn't all about greed",
+        "lyric": "But you can't do what you like if you can't get what you need",
+        "next": "Find where you fit in, make some wishes",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But you can't do what you like if you can't get what you need",
+        "lyric": "Find where you fit in, make some wishes",
+        "next": "Maybe get a little ambitious",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Find where you fit in, make some wishes",
+        "lyric": "Maybe get a little ambitious",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I don't know if any footage survives",
+        "next": "But I can picture Annie Haslam on stage",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I don't know if any footage survives",
+        "lyric": "But I can picture Annie Haslam on stage",
+        "next": "They played their most popular song",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But I can picture Annie Haslam on stage",
+        "lyric": "They played their most popular song",
+        "next": "And then another one that was 29 minutes long",
+        "multiplicity": 1
+      },
+      {
+        "prev": "They played their most popular song",
+        "lyric": "And then another one that was 29 minutes long",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Best Hard Rock Albums 2013": [
+      {
+        "prev": "",
+        "lyric": "The sky in the morning when you catch a minute to breathe",
+        "next": "The sun on the grass, the wind in your sleeve",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The sky in the morning when you catch a minute to breathe",
+        "lyric": "The sun on the grass, the wind in your sleeve",
+        "next": "The dream that climbs the curtains as soon as you open your eyes",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The sun on the grass, the wind in your sleeve",
+        "lyric": "The dream that climbs the curtains as soon as you open your eyes",
+        "next": "The unattainable shore of the first time you got high",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The dream that climbs the curtains as soon as you open your eyes",
+        "lyric": "The unattainable shore of the first time you got high",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "The best hard rock albums of 2013",
+        "next": "The best hard rock albums of 2013",
+        "multiplicity": 3
+      },
+      {
+        "prev": "The best hard rock albums of 2013",
+        "lyric": "The best hard rock albums of 2013",
+        "next": "",
+        "multiplicity": 3
+      },
+      {
+        "prev": "",
+        "lyric": "Egrets in the salt marsh seen from a moving car",
+        "next": "Motionless and silent, frozen where they are",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Egrets in the salt marsh seen from a moving car",
+        "lyric": "Motionless and silent, frozen where they are",
+        "next": "The childhood friend whose last name you can never get right",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Motionless and silent, frozen where they are",
+        "lyric": "The childhood friend whose last name you can never get right",
+        "next": "Party every day, rock and roll all night",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The childhood friend whose last name you can never get right",
+        "lyric": "Party every day, rock and roll all night",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Somebody's making a list",
+        "next": "So you can check out the ones you missed",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Somebody's making a list",
+        "lyric": "So you can check out the ones you missed",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Days of idle pleasure in which nothing much occured",
+        "next": "The look on your father's face the day you said your first word",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Days of idle pleasure in which nothing much occured",
+        "lyric": "The look on your father's face the day you said your first word",
+        "next": "The days it felt like all of this was really just pretend",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The look on your father's face the day you said your first word",
+        "lyric": "The days it felt like all of this was really just pretend",
+        "next": "The earlier parts of the tunnel before you could see through to the end",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The days it felt like all of this was really just pretend",
+        "lyric": "The earlier parts of the tunnel before you could see through to the end",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Candlebox": [
+      {
+        "prev": "",
+        "lyric": "Three years on the local circuit",
+        "next": "Played twice at the county fair",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Three years on the local circuit",
+        "lyric": "Played twice at the county fair",
+        "next": "And the second time, Ben",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Played twice at the county fair",
+        "lyric": "And the second time, Ben",
+        "next": "Our friend who worked the business end",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And the second time, Ben",
+        "lyric": "Our friend who worked the business end",
+        "next": "Said a guy from a label was there",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Our friend who worked the business end",
+        "lyric": "Said a guy from a label was there",
+        "next": "There were two more like him at the next show",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Said a guy from a label was there",
+        "lyric": "There were two more like him at the next show",
+        "next": "Staring us down like hawks",
+        "multiplicity": 1
+      },
+      {
+        "prev": "There were two more like him at the next show",
+        "lyric": "Staring us down like hawks",
+        "next": "And there was love in the air,",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Staring us down like hawks",
+        "lyric": "And there was love in the air,",
+        "next": "And all the money was there,",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And there was love in the air,",
+        "lyric": "And all the money was there,",
+        "next": "And we were going on tour",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And all the money was there,",
+        "lyric": "And we were going on tour",
+        "next": "With Candlebox",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And we were going on tour",
+        "lyric": "With Candlebox",
+        "next": "Candlebox",
+        "multiplicity": 1
+      },
+      {
+        "prev": "With Candlebox",
+        "lyric": "Candlebox",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "All the free acid-washed blue jeans you could ever want",
+        "next": "Underneath the bus",
+        "multiplicity": 1
+      },
+      {
+        "prev": "All the free acid-washed blue jeans you could ever want",
+        "lyric": "Underneath the bus",
+        "next": "Sound guy, schedule guy, driver",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Underneath the bus",
+        "lyric": "Sound guy, schedule guy, driver",
+        "next": "Three bunks left for us",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sound guy, schedule guy, driver",
+        "lyric": "Three bunks left for us",
+        "next": "You sleep like a baby when you're still young",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Three bunks left for us",
+        "lyric": "You sleep like a baby when you're still young",
+        "next": "And dumber than a bag of rocks",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You sleep like a baby when you're still young",
+        "lyric": "And dumber than a bag of rocks",
+        "next": "Twenty-five tight minutes seven nights a week",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And dumber than a bag of rocks",
+        "lyric": "Twenty-five tight minutes seven nights a week",
+        "next": "Eight weeks without a break",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Twenty-five tight minutes seven nights a week",
+        "lyric": "Eight weeks without a break",
+        "next": "For Candlebox",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Eight weeks without a break",
+        "lyric": "For Candlebox",
+        "next": "Candlebox",
+        "multiplicity": 1
+      },
+      {
+        "prev": "For Candlebox",
+        "lyric": "Candlebox",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Together in the tents at the festivals",
+        "next": "Running out of things to say",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Together in the tents at the festivals",
+        "lyric": "Running out of things to say",
+        "next": "This is how we build the fanbase, fellas",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Running out of things to say",
+        "lyric": "This is how we build the fanbase, fellas",
+        "next": "We'll be in the headline slot someday",
+        "multiplicity": 1
+      },
+      {
+        "prev": "This is how we build the fanbase, fellas",
+        "lyric": "We'll be in the headline slot someday",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Whole team full of Roman accountants",
+        "next": "At their desks the day Hannibal crossed:",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Whole team full of Roman accountants",
+        "lyric": "At their desks the day Hannibal crossed:",
+        "next": "You wouldn't even believe me",
+        "multiplicity": 1
+      },
+      {
+        "prev": "At their desks the day Hannibal crossed:",
+        "lyric": "You wouldn't even believe me",
+        "next": "If I told you what video cost",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You wouldn't even believe me",
+        "lyric": "If I told you what video cost",
+        "next": "Windswept silence at the henhouse",
+        "multiplicity": 1
+      },
+      {
+        "prev": "If I told you what video cost",
+        "lyric": "Windswept silence at the henhouse",
+        "next": "Nobody's catching up with the fox",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Windswept silence at the henhouse",
+        "lyric": "Nobody's catching up with the fox",
+        "next": "But if we ever find Ben, we'll probably do it again",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Nobody's catching up with the fox",
+        "lyric": "But if we ever find Ben, we'll probably do it again",
+        "next": "Like we were young men",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But if we ever find Ben, we'll probably do it again",
+        "lyric": "Like we were young men",
+        "next": "As we were then",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Like we were young men",
+        "lyric": "As we were then",
+        "next": "With Candlebox",
+        "multiplicity": 1
+      },
+      {
+        "prev": "As we were then",
+        "lyric": "With Candlebox",
+        "next": "Candlebox",
+        "multiplicity": 1
+      },
+      {
+        "prev": "With Candlebox",
+        "lyric": "Candlebox",
+        "next": "Candlebox",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Candlebox",
+        "lyric": "Candlebox",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Charlie Sheen Reaches Out to the Feds": [
+      {
+        "prev": "",
+        "lyric": "Everybody's making money, everybody's flying high",
+        "next": "Who among my brethren is more beautiful than I?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Everybody's making money, everybody's flying high",
+        "lyric": "Who among my brethren is more beautiful than I?",
+        "next": "Who puts out on the carpet? Who knows ahead of time",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Who among my brethren is more beautiful than I?",
+        "lyric": "Who puts out on the carpet? Who knows ahead of time",
+        "next": "Which camera he should turn to when it's time to say his line?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Who puts out on the carpet? Who knows ahead of time",
+        "lyric": "Which camera he should turn to when it's time to say his line?",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I'm watching movies, heart pounding like a drum",
+        "next": "Call out in the dark for somebody to come",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I'm watching movies, heart pounding like a drum",
+        "lyric": "Call out in the dark for somebody to come",
+        "next": "Do you see what I see? There's no way all that's fake",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Call out in the dark for somebody to come",
+        "lyric": "Do you see what I see? There's no way all that's fake",
+        "next": "Only so much a good man can take",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Do you see what I see? There's no way all that's fake",
+        "lyric": "Only so much a good man can take",
+        "next": "But you can't fight evil all alone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Only so much a good man can take",
+        "lyric": "But you can't fight evil all alone",
+        "next": "\"Please, James, get the director on the phone\"",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But you can't fight evil all alone",
+        "lyric": "\"Please, James, get the director on the phone\"",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I will rise to this occasion",
+        "next": "I will rise to this occasion",
+        "multiplicity": 2
+      },
+      {
+        "prev": "I will rise to this occasion",
+        "lyric": "I will rise to this occasion",
+        "next": "I will rise, rise to this occasion",
+        "multiplicity": 2
+      },
+      {
+        "prev": "I will rise to this occasion",
+        "lyric": "I will rise, rise to this occasion",
+        "next": "I will rise to this occasion",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I will rise, rise to this occasion",
+        "lyric": "I will rise to this occasion",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I lead the agents back to the screening room",
+        "next": "And in the dark, we watch the blood flowers bloom",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I lead the agents back to the screening room",
+        "lyric": "And in the dark, we watch the blood flowers bloom",
+        "next": "And then the credits seem to roll on forever",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And in the dark, we watch the blood flowers bloom",
+        "lyric": "And then the credits seem to roll on forever",
+        "next": "I know people who can find out who put this thing together",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And then the credits seem to roll on forever",
+        "lyric": "I know people who can find out who put this thing together",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "After a while, one of them said",
+        "next": "\"Listen, Charlie, you're from Hollywood",
+        "multiplicity": 1
+      },
+      {
+        "prev": "After a while, one of them said",
+        "lyric": "\"Listen, Charlie, you're from Hollywood",
+        "next": "And the moving pictures aren't what they used to be, it's true",
+        "multiplicity": 1
+      },
+      {
+        "prev": "\"Listen, Charlie, you're from Hollywood",
+        "lyric": "And the moving pictures aren't what they used to be, it's true",
+        "next": "But I'm not sure what you think the bureau can do\"",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And the moving pictures aren't what they used to be, it's true",
+        "lyric": "But I'm not sure what you think the bureau can do\"",
+        "next": "Gentlemen, the camera doesn't lie",
+        "multiplicity": 1
+      },
+      {
+        "prev": "But I'm not sure what you think the bureau can do\"",
+        "lyric": "Gentlemen, the camera doesn't lie",
+        "next": "How many more innocent women must die?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Gentlemen, the camera doesn't lie",
+        "lyric": "How many more innocent women must die?",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I will rise to this occasion",
+        "lyric": "I will rise, rise to this occasion",
+        "next": "I will rise, rise, rise, rise, rise to this occasion",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I will rise, rise to this occasion",
+        "lyric": "I will rise, rise, rise, rise, rise to this occasion",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Crying on Eddie Nash's Grave": [
+      {
+        "prev": "",
+        "lyric": "Interstate 10 to 57 to 60",
+        "next": "Come in on the underside",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Interstate 10 to 57 to 60",
+        "lyric": "Come in on the underside",
+        "next": "Cast a line around for a memory",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Come in on the underside",
+        "lyric": "Cast a line around for a memory",
+        "next": "Of some heavy days gone by",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Cast a line around for a memory",
+        "lyric": "Of some heavy days gone by",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Swallow what the sunlight feeds you",
+        "next": "Where every little whisper leads you",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Swallow what the sunlight feeds you",
+        "lyric": "Where every little whisper leads you",
+        "next": "And find me",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Where every little whisper leads you",
+        "lyric": "And find me",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Crying on Eddie Nash's grave",
+        "next": "Crying on Eddie Nash's grave",
+        "multiplicity": 3
+      },
+      {
+        "prev": "Crying on Eddie Nash's grave",
+        "lyric": "Crying on Eddie Nash's grave",
+        "next": "",
+        "multiplicity": 3
+      },
+      {
+        "prev": "",
+        "lyric": "Pleasure crafts at the marina",
+        "next": "Set up where the timber drifts",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Pleasure crafts at the marina",
+        "lyric": "Set up where the timber drifts",
+        "next": "In your sandals down at the liquor store",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Set up where the timber drifts",
+        "lyric": "In your sandals down at the liquor store",
+        "next": "Take you through the morning shift",
+        "multiplicity": 1
+      },
+      {
+        "prev": "In your sandals down at the liquor store",
+        "lyric": "Take you through the morning shift",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Inside, a creature you could be kind to",
+        "next": "Notice how the sunlight binds you",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Inside, a creature you could be kind to",
+        "lyric": "Notice how the sunlight binds you",
+        "next": "And find me",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Notice how the sunlight binds you",
+        "lyric": "And find me",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Too late to save anybody",
+        "next": "That's what I say to you,",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Too late to save anybody",
+        "lyric": "That's what I say to you,",
+        "next": "And it's true",
+        "multiplicity": 1
+      },
+      {
+        "prev": "That's what I say to you,",
+        "lyric": "And it's true",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Sobbing for the hopeless wrecks down here",
+        "next": "Waiting til the coast is clear",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Sobbing for the hopeless wrecks down here",
+        "lyric": "Waiting til the coast is clear",
+        "next": "And find me",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Waiting til the coast is clear",
+        "lyric": "And find me",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Days (song)": [
+      {
+        "prev": "",
+        "lyric": "Prizefighters when they're still in their prime",
+        "next": "Russian novels when you find the time",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Prizefighters when they're still in their prime",
+        "lyric": "Russian novels when you find the time",
+        "next": "Cats sleeping in a patch of sun",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Russian novels when you find the time",
+        "lyric": "Cats sleeping in a patch of sun",
+        "next": "Go buy candy and a currant bun",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Cats sleeping in a patch of sun",
+        "lyric": "Go buy candy and a currant bun",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Do you know how short the days are?",
+        "next": "Do you know how short the days are?",
+        "multiplicity": 2
+      },
+      {
+        "prev": "Do you know how short the days are?",
+        "lyric": "Do you know how short the days are?",
+        "next": "",
+        "multiplicity": 2
+      },
+      {
+        "prev": "",
+        "lyric": "Shot-stopping in the five-on-four",
+        "next": "House speakers pumping four to the floor",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Shot-stopping in the five-on-four",
+        "lyric": "House speakers pumping four to the floor",
+        "next": "The scene right before the surface cracks",
+        "multiplicity": 1
+      },
+      {
+        "prev": "House speakers pumping four to the floor",
+        "lyric": "The scene right before the surface cracks",
+        "next": "Dusty paperbacks",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The scene right before the surface cracks",
+        "lyric": "Dusty paperbacks",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Do you know how short the days are? No, you don't",
+        "next": "When they're gone, will you be ready? No, you won't",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Do you know how short the days are? No, you don't",
+        "lyric": "When they're gone, will you be ready? No, you won't",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Knuckleballers when they're deep in the zone",
+        "next": "Loosening the sword from the stone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Knuckleballers when they're deep in the zone",
+        "lyric": "Loosening the sword from the stone",
+        "next": "Three notes and I can name that tune",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Loosening the sword from the stone",
+        "lyric": "Three notes and I can name that tune",
+        "next": "Ice cream tastes good in the afternoon",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Three notes and I can name that tune",
+        "lyric": "Ice cream tastes good in the afternoon",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Do you know how short the days are?",
+        "lyric": "Do you know how short the days are?",
+        "next": "Do you know how short the days are?",
+        "multiplicity": 1
+      }
+    ],
+    "Going to Fennario": [
+      {
+        "prev": "",
+        "lyric": "Now children, gather 'round, as we lay Sweet William down",
+        "next": "to sing him to his final shore",
+        "multiplicity": 4
+      },
+      {
+        "prev": "Now children, gather 'round, as we lay Sweet William down",
+        "lyric": "to sing him to his final shore",
+        "next": "and sing a song for me, and for these men, forever free",
+        "multiplicity": 4
+      },
+      {
+        "prev": "to sing him to his final shore",
+        "lyric": "and sing a song for me, and for these men, forever free",
+        "next": "to sail without a captain evermore",
+        "multiplicity": 4
+      },
+      {
+        "prev": "and sing a song for me, and for these men, forever free",
+        "lyric": "to sail without a captain evermore",
+        "next": "to sail without a captain evermore",
+        "multiplicity": 4
+      },
+      {
+        "prev": "to sail without a captain evermore",
+        "lyric": "to sail without a captain evermore",
+        "next": "",
+        "multiplicity": 4
+      },
+      {
+        "prev": "",
+        "lyric": "Now when he left this country,",
+        "next": "he had one thing on his mind",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Now when he left this country,",
+        "lyric": "he had one thing on his mind",
+        "next": "to wipe away the memory",
+        "multiplicity": 1
+      },
+      {
+        "prev": "he had one thing on his mind",
+        "lyric": "to wipe away the memory",
+        "next": "of everything he left behind",
+        "multiplicity": 1
+      },
+      {
+        "prev": "to wipe away the memory",
+        "lyric": "of everything he left behind",
+        "next": "no cost too great to shoulder",
+        "multiplicity": 1
+      },
+      {
+        "prev": "of everything he left behind",
+        "lyric": "no cost too great to shoulder",
+        "next": "no burden too high to bear",
+        "multiplicity": 1
+      },
+      {
+        "prev": "no cost too great to shoulder",
+        "lyric": "no burden too high to bear",
+        "next": "I'm going to Fennario",
+        "multiplicity": 1
+      },
+      {
+        "prev": "no burden too high to bear",
+        "lyric": "I'm going to Fennario",
+        "next": "if they have to carry my body there",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I'm going to Fennario",
+        "lyric": "if they have to carry my body there",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Out on the wild blue ocean",
+        "next": "in the company of thieves",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Out on the wild blue ocean",
+        "lyric": "in the company of thieves",
+        "next": "every man on this planet",
+        "multiplicity": 1
+      },
+      {
+        "prev": "in the company of thieves",
+        "lyric": "every man on this planet",
+        "next": "hopes it knows his name before he leaves",
+        "multiplicity": 1
+      },
+      {
+        "prev": "every man on this planet",
+        "lyric": "hopes it knows his name before he leaves",
+        "next": "try to leave a big impression",
+        "multiplicity": 1
+      },
+      {
+        "prev": "hopes it knows his name before he leaves",
+        "lyric": "try to leave a big impression",
+        "next": "in the mind of every man he meets",
+        "multiplicity": 1
+      },
+      {
+        "prev": "try to leave a big impression",
+        "lyric": "in the mind of every man he meets",
+        "next": "I'm going to Fennario",
+        "multiplicity": 1
+      },
+      {
+        "prev": "in the mind of every man he meets",
+        "lyric": "I'm going to Fennario",
+        "next": "if they have to drag me through the streets",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I'm going to Fennario",
+        "lyric": "if they have to drag me through the streets",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "And sing for the night that lasts forever",
+        "next": "and sing for this man who's gone today",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And sing for the night that lasts forever",
+        "lyric": "and sing for this man who's gone today",
+        "next": "who for his true love's sake left burnt cities in his wake",
+        "multiplicity": 1
+      },
+      {
+        "prev": "and sing for this man who's gone today",
+        "lyric": "who for his true love's sake left burnt cities in his wake",
+        "next": "and killed every good man in his way",
+        "multiplicity": 1
+      },
+      {
+        "prev": "who for his true love's sake left burnt cities in his wake",
+        "lyric": "and killed every good man in his way",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "They're cutting down the timber",
+        "next": "soon all of this is gonna be a memory",
+        "multiplicity": 1
+      },
+      {
+        "prev": "They're cutting down the timber",
+        "lyric": "soon all of this is gonna be a memory",
+        "next": "but there'll just be an empty cabin",
+        "multiplicity": 1
+      },
+      {
+        "prev": "soon all of this is gonna be a memory",
+        "lyric": "but there'll just be an empty cabin",
+        "next": "when the wolf comes by for me",
+        "multiplicity": 1
+      },
+      {
+        "prev": "but there'll just be an empty cabin",
+        "lyric": "when the wolf comes by for me",
+        "next": "pour out liquor for the captain",
+        "multiplicity": 1
+      },
+      {
+        "prev": "when the wolf comes by for me",
+        "lyric": "pour out liquor for the captain",
+        "next": "sing around the fire until the dawn",
+        "multiplicity": 1
+      },
+      {
+        "prev": "pour out liquor for the captain",
+        "lyric": "sing around the fire until the dawn",
+        "next": "I'm going to Fennario",
+        "multiplicity": 1
+      },
+      {
+        "prev": "sing around the fire until the dawn",
+        "lyric": "I'm going to Fennario",
+        "next": "let everybody know I'm gone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I'm going to Fennario",
+        "lyric": "let everybody know I'm gone",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Hidden Majesty of Later Venom Albums": [
+      {
+        "prev": "",
+        "lyric": "Only the die-hards left to bear witness",
+        "next": "Guys from the downtown scene back to minding their business",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Only the die-hards left to bear witness",
+        "lyric": "Guys from the downtown scene back to minding their business",
+        "next": "Just a little more bass in the wedge, if it's not too much hassle",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Guys from the downtown scene back to minding their business",
+        "lyric": "Just a little more bass in the wedge, if it's not too much hassle",
+        "next": "Thank you for coming -- we're from Newcastle",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Just a little more bass in the wedge, if it's not too much hassle",
+        "lyric": "Thank you for coming -- we're from Newcastle",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Free",
+        "next": "In the total absence of vocal harmony",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free",
+        "lyric": "In the total absence of vocal harmony",
+        "next": "Free",
+        "multiplicity": 1
+      },
+      {
+        "prev": "In the total absence of vocal harmony",
+        "lyric": "Free",
+        "next": "Free within the majesty",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free",
+        "lyric": "Free within the majesty",
+        "next": "",
+        "multiplicity": 2
+      },
+      {
+        "prev": "",
+        "lyric": "Last man living inside, don't you forget it",
+        "next": "Old cracked leather, chrome-studded",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Last man living inside, don't you forget it",
+        "lyric": "Old cracked leather, chrome-studded",
+        "next": "Ride from Lincoln, Nebraska to the Canada border",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Old cracked leather, chrome-studded",
+        "lyric": "Ride from Lincoln, Nebraska to the Canada border",
+        "next": "Wake from a hard sleep just to show them my passport",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Ride from Lincoln, Nebraska to the Canada border",
+        "lyric": "Wake from a hard sleep just to show them my passport",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Free",
+        "next": "In the throb and the cacophony",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free",
+        "lyric": "In the throb and the cacophony",
+        "next": "Free",
+        "multiplicity": 1
+      },
+      {
+        "prev": "In the throb and the cacophony",
+        "lyric": "Free",
+        "next": "Free inside the legacy",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free",
+        "lyric": "Free inside the legacy",
+        "next": "Free",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free inside the legacy",
+        "lyric": "Free",
+        "next": "Someday you'll see the last of me",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Free",
+        "lyric": "Someday you'll see the last of me",
+        "next": "Free",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Someday you'll see the last of me",
+        "lyric": "Free",
+        "next": "Free within the majesty",
+        "multiplicity": 1
+      }
+    ],
+    "Last Day": [
+      {
+        "prev": "",
+        "lyric": "The last day of your life will be sweet",
+        "next": "The last day of your life will be sweet",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last day of your life will be sweet",
+        "lyric": "The last day of your life will be sweet",
+        "next": "Whether you go down crying, or if you welcome the time",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last day of your life will be sweet",
+        "lyric": "Whether you go down crying, or if you welcome the time",
+        "next": "The last day of your life will be sweet",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Whether you go down crying, or if you welcome the time",
+        "lyric": "The last day of your life will be sweet",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "The last message you get will be clear",
+        "next": "The last message you get will be clear",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last message you get will be clear",
+        "lyric": "The last message you get will be clear",
+        "next": "It's been foggy of late, but just you wait,",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last message you get will be clear",
+        "lyric": "It's been foggy of late, but just you wait,",
+        "next": "'Cause on the last day -- well, you know what the prophets say:",
+        "multiplicity": 1
+      },
+      {
+        "prev": "It's been foggy of late, but just you wait,",
+        "lyric": "'Cause on the last day -- well, you know what the prophets say:",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Keep a good thought in your mind",
+        "next": "Don't leave anybody behind",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Keep a good thought in your mind",
+        "lyric": "Don't leave anybody behind",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "The last day of your life, you'll be whole",
+        "next": "The last day of your life, you'll be whole",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last day of your life, you'll be whole",
+        "lyric": "The last day of your life, you'll be whole",
+        "next": "And what was broken will then be put together again",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last day of your life, you'll be whole",
+        "lyric": "And what was broken will then be put together again",
+        "next": "Then you'll be totally free, and that's a guarantee",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And what was broken will then be put together again",
+        "lyric": "Then you'll be totally free, and that's a guarantee",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "And if we go by the text",
+        "next": "We can't really say what's next",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And if we go by the text",
+        "lyric": "We can't really say what's next",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "The last day will be lighter than air",
+        "next": "The last day will be lighter than air",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last day will be lighter than air",
+        "lyric": "The last day will be lighter than air",
+        "next": "You're going to head for the light, and then you'll be all right,",
+        "multiplicity": 1
+      },
+      {
+        "prev": "The last day will be lighter than air",
+        "lyric": "You're going to head for the light, and then you'll be all right,",
+        "next": "And maybe just then you'll meet up with the prophets again",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You're going to head for the light, and then you'll be all right,",
+        "lyric": "And maybe just then you'll meet up with the prophets again",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Keep a good thought in your mind",
+        "next": "They won't leave anybody behind",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Keep a good thought in your mind",
+        "lyric": "They won't leave anybody behind",
+        "next": "",
+        "multiplicity": 1
+      }
+    ],
+    "Shallow Grave": [
+      {
+        "prev": "",
+        "lyric": "Bury me in a shallow grave",
+        "next": "Out behind the warehouse rave",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Bury me in a shallow grave",
+        "lyric": "Out behind the warehouse rave",
+        "next": "And while you're having a smoke back there",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Out behind the warehouse rave",
+        "lyric": "And while you're having a smoke back there",
+        "next": "You can think of me while you fix your hair",
+        "multiplicity": 1
+      },
+      {
+        "prev": "And while you're having a smoke back there",
+        "lyric": "You can think of me while you fix your hair",
+        "next": "As you are, so once was I",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You can think of me while you fix your hair",
+        "lyric": "As you are, so once was I",
+        "next": "Stealing time and trying to find the shapes in the night sky",
+        "multiplicity": 1
+      },
+      {
+        "prev": "As you are, so once was I",
+        "lyric": "Stealing time and trying to find the shapes in the night sky",
+        "next": "Shallow Grave",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Stealing time and trying to find the shapes in the night sky",
+        "lyric": "Shallow Grave",
+        "next": "Shallow Grave",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Shallow Grave",
+        "lyric": "Shallow Grave",
+        "next": "Shallow Grave",
+        "multiplicity": 4
+      },
+      {
+        "prev": "Shallow Grave",
+        "lyric": "Shallow Grave",
+        "next": "",
+        "multiplicity": 3
+      },
+      {
+        "prev": "",
+        "lyric": "Bury me so the rain reveals",
+        "next": "What the earth sought to conceal",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Bury me so the rain reveals",
+        "lyric": "What the earth sought to conceal",
+        "next": "Bones that hurt while they were down here",
+        "multiplicity": 1
+      },
+      {
+        "prev": "What the earth sought to conceal",
+        "lyric": "Bones that hurt while they were down here",
+        "next": "Flesh that waited til the coast was clear",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Bones that hurt while they were down here",
+        "lyric": "Flesh that waited til the coast was clear",
+        "next": "Fingers poking up through the ground in the dawn",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Flesh that waited til the coast was clear",
+        "lyric": "Fingers poking up through the ground in the dawn",
+        "next": "Like Carrie White's mom",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Fingers poking up through the ground in the dawn",
+        "lyric": "Like Carrie White's mom",
+        "next": "Shallow Grave",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Like Carrie White's mom",
+        "lyric": "Shallow Grave",
+        "next": "Shallow Grave",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Shallow grave, out in the middle of things",
+        "next": "Shallow grave, go get a bucket of chicken wings",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Shallow grave, out in the middle of things",
+        "lyric": "Shallow grave, go get a bucket of chicken wings",
+        "next": "Shallow grave, and when you through down the bones",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Shallow grave, go get a bucket of chicken wings",
+        "lyric": "Shallow grave, and when you through down the bones",
+        "next": "Listen for the dial tone",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Shallow grave, and when you through down the bones",
+        "lyric": "Listen for the dial tone",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "When I've assumed my final form",
+        "next": "Bury me while I'm still warm",
+        "multiplicity": 1
+      },
+      {
+        "prev": "When I've assumed my final form",
+        "lyric": "Bury me while I'm still warm",
+        "next": "Check the scene for prying eyes",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Bury me while I'm still warm",
+        "lyric": "Check the scene for prying eyes",
+        "next": "You know legends live forever, but the camera never lies",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Check the scene for prying eyes",
+        "lyric": "You know legends live forever, but the camera never lies",
+        "next": "Just so we're perfectly clear:",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You know legends live forever, but the camera never lies",
+        "lyric": "Just so we're perfectly clear:",
+        "next": "I was never here",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Just so we're perfectly clear:",
+        "lyric": "I was never here",
+        "next": "Shallow Grave",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I was never here",
+        "lyric": "Shallow Grave",
+        "next": "Shallow Grave",
+        "multiplicity": 1
+      }
+    ],
+    "Song for Layne Staley": [
+      {
+        "prev": "",
+        "lyric": "I was on the prowl for something good to do",
+        "next": "Started up a rock band, wouldn't you?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I was on the prowl for something good to do",
+        "lyric": "Started up a rock band, wouldn't you?",
+        "next": "Everybody needs his own space on the floor",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Started up a rock band, wouldn't you?",
+        "lyric": "Everybody needs his own space on the floor",
+        "next": "Everybody needs something to be on guard for",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Everybody needs his own space on the floor",
+        "lyric": "Everybody needs something to be on guard for",
+        "next": "I don't want this",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Everybody needs something to be on guard for",
+        "lyric": "I don't want this",
+        "next": "I don't need this",
+        "multiplicity": 2
+      },
+      {
+        "prev": "I don't want this",
+        "lyric": "I don't need this",
+        "next": "I don't want this",
+        "multiplicity": 8
+      },
+      {
+        "prev": "I don't need this",
+        "lyric": "I don't want this",
+        "next": "I don't need this",
+        "multiplicity": 8
+      },
+      {
+        "prev": "I don't want this",
+        "lyric": "I don't need this",
+        "next": "",
+        "multiplicity": 4
+      },
+      {
+        "prev": "",
+        "lyric": "I was on the TV, maybe you saw me there",
+        "next": "I was in my designer shades, nationwide, live on the air",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I was on the TV, maybe you saw me there",
+        "lyric": "I was in my designer shades, nationwide, live on the air",
+        "next": "This is what you wanted when you were a kid",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I was in my designer shades, nationwide, live on the air",
+        "lyric": "This is what you wanted when you were a kid",
+        "next": "Not everybody found the pocket, but you did",
+        "multiplicity": 1
+      },
+      {
+        "prev": "This is what you wanted when you were a kid",
+        "lyric": "Not everybody found the pocket, but you did",
+        "next": "I don't want this",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Not everybody found the pocket, but you did",
+        "lyric": "I don't want this",
+        "next": "I don't need this",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I'm not gonna keep this",
+        "next": "I'm gonna throw it into the trash",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I'm not gonna keep this",
+        "lyric": "I'm gonna throw it into the trash",
+        "next": "I'm gonna find a sharp turn",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I'm gonna throw it into the trash",
+        "lyric": "I'm gonna find a sharp turn",
+        "next": "You're not gonna hear the crash",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I'm gonna find a sharp turn",
+        "lyric": "You're not gonna hear the crash",
+        "next": "Out here on my own now",
+        "multiplicity": 1
+      },
+      {
+        "prev": "You're not gonna hear the crash",
+        "lyric": "Out here on my own now",
+        "next": "Only come out at night",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Out here on my own now",
+        "lyric": "Only come out at night",
+        "next": "Only call my new friends",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Only come out at night",
+        "lyric": "Only call my new friends",
+        "next": "Just trying to get straight",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Only call my new friends",
+        "lyric": "Just trying to get straight",
+        "next": "Everybody needs a peephole in the door",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Just trying to get straight",
+        "lyric": "Everybody needs a peephole in the door",
+        "next": "Everybody needs something to be on guard for",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Everybody needs a peephole in the door",
+        "lyric": "Everybody needs something to be on guard for",
+        "next": "I don't want this",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "I don't want this",
+        "next": "I don't need this",
+        "multiplicity": 1
+      }
+    ],
+    "Woodstock": [
+      {
+        "prev": "",
+        "lyric": "Not the 60's Woodstock but the one much later on",
+        "next": "Let the poisoned fledglings come and gather in the dawn",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Not the 60's Woodstock but the one much later on",
+        "lyric": "Let the poisoned fledglings come and gather in the dawn",
+        "next": "Behold the heavy century, buckling with the strain",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Let the poisoned fledglings come and gather in the dawn",
+        "lyric": "Behold the heavy century, buckling with the strain",
+        "next": "Young man with a microphone hollering \"cocaine\"",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Behold the heavy century, buckling with the strain",
+        "lyric": "Young man with a microphone hollering \"cocaine\"",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Major label contract, stoned out of his mind",
+        "next": "Pants comped by Levi-Strauss, full mouth of teeth to grind",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Major label contract, stoned out of his mind",
+        "lyric": "Pants comped by Levi-Strauss, full mouth of teeth to grind",
+        "next": "Wasn't there a mighty flood? Yes, didn't it rain?",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Pants comped by Levi-Strauss, full mouth of teeth to grind",
+        "lyric": "Wasn't there a mighty flood? Yes, didn't it rain?",
+        "next": "Stand before the people, yell about cocaine",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Wasn't there a mighty flood? Yes, didn't it rain?",
+        "lyric": "Stand before the people, yell about cocaine",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Cocaine",
+        "next": "Yell about cocaine",
+        "multiplicity": 2
+      },
+      {
+        "prev": "Cocaine",
+        "lyric": "Yell about cocaine",
+        "next": "Stand before the people",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Yell about cocaine",
+        "lyric": "Stand before the people",
+        "next": "Yell about cocaine",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Stand before the people",
+        "lyric": "Yell about cocaine",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Let the party people come to feel my aimless wrath",
+        "next": "Salt the earth behind me as I wander down the path",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Let the party people come to feel my aimless wrath",
+        "lyric": "Salt the earth behind me as I wander down the path",
+        "next": "No light but the spent light, just the lab assistant's brain",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Salt the earth behind me as I wander down the path",
+        "lyric": "No light but the spent light, just the lab assistant's brain",
+        "next": "To lie beneath the lightning and yell about cocaine",
+        "multiplicity": 1
+      },
+      {
+        "prev": "No light but the spent light, just the lab assistant's brain",
+        "lyric": "To lie beneath the lightning and yell about cocaine",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "",
+        "lyric": "Full phalanx of cameramen to document the scene",
+        "next": "See the mass of starlings throbbing forward on the green",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Full phalanx of cameramen to document the scene",
+        "lyric": "See the mass of starlings throbbing forward on the green",
+        "next": "I've heard it said it's hard to tell when all your love's in vain",
+        "multiplicity": 1
+      },
+      {
+        "prev": "See the mass of starlings throbbing forward on the green",
+        "lyric": "I've heard it said it's hard to tell when all your love's in vain",
+        "next": "Shirtless before God, yell about cocaine",
+        "multiplicity": 1
+      },
+      {
+        "prev": "I've heard it said it's hard to tell when all your love's in vain",
+        "lyric": "Shirtless before God, yell about cocaine",
+        "next": "",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Cocaine",
+        "lyric": "Yell about cocaine",
+        "next": "Shirtless before God",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Yell about cocaine",
+        "lyric": "Shirtless before God",
+        "next": "Yell about cocaine",
+        "multiplicity": 1
+      },
+      {
+        "prev": "Shirtless before God",
+        "lyric": "Yell about cocaine",
+        "next": "",
+        "multiplicity": 1
+      }
+    ]
+  },
   "Dark in Here": {
     "Arguing With the Ghost of Peter Laughner About His Coney Island Baby Review": [
       {
@@ -112319,760 +114073,6 @@
         "prev": "With real arrogance burning inside",
         "lyric": "And I drank in the whole wide world",
         "next": "",
-        "multiplicity": 1
-      }
-    ]
-  },
-  "Days": {
-    "Candlebox": [
-      {
-        "prev": "",
-        "lyric": "Three years on the local circuit",
-        "next": "Played twice at the county fair",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Three years on the local circuit",
-        "lyric": "Played twice at the county fair",
-        "next": "And the second time, Ben",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Played twice at the county fair",
-        "lyric": "And the second time, Ben",
-        "next": "Our friend who worked the business end",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And the second time, Ben",
-        "lyric": "Our friend who worked the business end",
-        "next": "Said a guy from a label was there",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Our friend who worked the business end",
-        "lyric": "Said a guy from a label was there",
-        "next": "There were two more like him at the next show",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Said a guy from a label was there",
-        "lyric": "There were two more like him at the next show",
-        "next": "Staring us down like hawks",
-        "multiplicity": 1
-      },
-      {
-        "prev": "There were two more like him at the next show",
-        "lyric": "Staring us down like hawks",
-        "next": "And there was love in the air,",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Staring us down like hawks",
-        "lyric": "And there was love in the air,",
-        "next": "And all the money was there,",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And there was love in the air,",
-        "lyric": "And all the money was there,",
-        "next": "And we were going on tour",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And all the money was there,",
-        "lyric": "And we were going on tour",
-        "next": "With Candlebox",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And we were going on tour",
-        "lyric": "With Candlebox",
-        "next": "Candlebox",
-        "multiplicity": 1
-      },
-      {
-        "prev": "With Candlebox",
-        "lyric": "Candlebox",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "All the free acid-washed blue jeans you could ever want",
-        "next": "Underneath the bus",
-        "multiplicity": 1
-      },
-      {
-        "prev": "All the free acid-washed blue jeans you could ever want",
-        "lyric": "Underneath the bus",
-        "next": "Sound guy, schedule guy, driver",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Underneath the bus",
-        "lyric": "Sound guy, schedule guy, driver",
-        "next": "Three bunks left for us",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Sound guy, schedule guy, driver",
-        "lyric": "Three bunks left for us",
-        "next": "You sleep like a baby when you're still young",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Three bunks left for us",
-        "lyric": "You sleep like a baby when you're still young",
-        "next": "And dumber than a bag of rocks",
-        "multiplicity": 1
-      },
-      {
-        "prev": "You sleep like a baby when you're still young",
-        "lyric": "And dumber than a bag of rocks",
-        "next": "Twenty-five tight minutes seven nights a week",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And dumber than a bag of rocks",
-        "lyric": "Twenty-five tight minutes seven nights a week",
-        "next": "Eight weeks without a break",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Twenty-five tight minutes seven nights a week",
-        "lyric": "Eight weeks without a break",
-        "next": "For Candlebox",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Eight weeks without a break",
-        "lyric": "For Candlebox",
-        "next": "Candlebox",
-        "multiplicity": 1
-      },
-      {
-        "prev": "For Candlebox",
-        "lyric": "Candlebox",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "Together in the tents at the festivals",
-        "next": "Running out of things to say",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Together in the tents at the festivals",
-        "lyric": "Running out of things to say",
-        "next": "This is how you build the fanbase, fellas",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Running out of things to say",
-        "lyric": "This is how you build the fanbase, fellas",
-        "next": "We'll be in the headline slot someday",
-        "multiplicity": 1
-      },
-      {
-        "prev": "This is how you build the fanbase, fellas",
-        "lyric": "We'll be in the headline slot someday",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "Whole team full of Roman accountants",
-        "next": "At their desks the day Hannibal crossed:",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Whole team full of Roman accountants",
-        "lyric": "At their desks the day Hannibal crossed:",
-        "next": "You wouldn't even believe me",
-        "multiplicity": 1
-      },
-      {
-        "prev": "At their desks the day Hannibal crossed:",
-        "lyric": "You wouldn't even believe me",
-        "next": "If I told you what video cost",
-        "multiplicity": 1
-      },
-      {
-        "prev": "You wouldn't even believe me",
-        "lyric": "If I told you what video cost",
-        "next": "Windswept silence at the henhouse",
-        "multiplicity": 1
-      },
-      {
-        "prev": "If I told you what video cost",
-        "lyric": "Windswept silence at the henhouse",
-        "next": "Nobody's catching up with the fox",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Windswept silence at the henhouse",
-        "lyric": "Nobody's catching up with the fox",
-        "next": "But if we ever find Ben, we'll probably do it again",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Nobody's catching up with the fox",
-        "lyric": "But if we ever find Ben, we'll probably do it again",
-        "next": "Like we were young me",
-        "multiplicity": 1
-      },
-      {
-        "prev": "But if we ever find Ben, we'll probably do it again",
-        "lyric": "Like we were young me",
-        "next": "As we were then",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Like we were young me",
-        "lyric": "As we were then",
-        "next": "With Candlebox",
-        "multiplicity": 1
-      },
-      {
-        "prev": "As we were then",
-        "lyric": "With Candlebox",
-        "next": "Candlebox",
-        "multiplicity": 1
-      },
-      {
-        "prev": "With Candlebox",
-        "lyric": "Candlebox",
-        "next": "Candlebox",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Candlebox",
-        "lyric": "Candlebox",
-        "next": "",
-        "multiplicity": 1
-      }
-    ],
-    "Charlie Sheen Reaches Out to the Feds": [
-      {
-        "prev": "",
-        "lyric": "Everybody's making money, everybody's flying high",
-        "next": "Who among my brethren is more beautiful than I?",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Everybody's making money, everybody's flying high",
-        "lyric": "Who among my brethren is more beautiful than I?",
-        "next": "Who puts out on the carpet? Who knows ahead of time",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Who among my brethren is more beautiful than I?",
-        "lyric": "Who puts out on the carpet? Who knows ahead of time",
-        "next": "Which camera he should turn to when it's time to say his line?",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Who puts out on the carpet? Who knows ahead of time",
-        "lyric": "Which camera he should turn to when it's time to say his line?",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "I'm watching movies, heart pounding like a drum",
-        "next": "Call out in the dark for somebody to come",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I'm watching movies, heart pounding like a drum",
-        "lyric": "Call out in the dark for somebody to come",
-        "next": "Do you see what I see? There's no way all that's fake",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Call out in the dark for somebody to come",
-        "lyric": "Do you see what I see? There's no way all that's fake",
-        "next": "Only so much a good man can take",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Do you see what I see? There's no way all that's fake",
-        "lyric": "Only so much a good man can take",
-        "next": "But you can't fight evil all alone",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Only so much a good man can take",
-        "lyric": "But you can't fight evil all alone",
-        "next": "\"Please, James, get the director on the phone\"",
-        "multiplicity": 1
-      },
-      {
-        "prev": "But you can't fight evil all alone",
-        "lyric": "\"Please, James, get the director on the phone\"",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "I will rise to this occasion",
-        "next": "I will rise to this occasion",
-        "multiplicity": 2
-      },
-      {
-        "prev": "I will rise to this occasion",
-        "lyric": "I will rise to this occasion",
-        "next": "I will rise, rise to this occasion",
-        "multiplicity": 2
-      },
-      {
-        "prev": "I will rise to this occasion",
-        "lyric": "I will rise, rise to this occasion",
-        "next": "I will rise to this occasion",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I will rise, rise to this occasion",
-        "lyric": "I will rise to this occasion",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "I lead the agents back to the screening room",
-        "next": "And in the dark, we watch the blood flowers bloom",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I lead the agents back to the screening room",
-        "lyric": "And in the dark, we watch the blood flowers bloom",
-        "next": "And then the credits seem to roll on forever",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And in the dark, we watch the blood flowers bloom",
-        "lyric": "And then the credits seem to roll on forever",
-        "next": "I know people who can find out who put this thing together",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And then the credits seem to roll on forever",
-        "lyric": "I know people who can find out who put this thing together",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "After a while, one of them said",
-        "next": "\"Listen, Charlie, you're from Hollywood",
-        "multiplicity": 1
-      },
-      {
-        "prev": "After a while, one of them said",
-        "lyric": "\"Listen, Charlie, you're from Hollywood",
-        "next": "And the moving pictures aren't what they used to be, it's true",
-        "multiplicity": 1
-      },
-      {
-        "prev": "\"Listen, Charlie, you're from Hollywood",
-        "lyric": "And the moving pictures aren't what they used to be, it's true",
-        "next": "But I'm not sure what you think the bureau can do\"",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And the moving pictures aren't what they used to be, it's true",
-        "lyric": "But I'm not sure what you think the bureau can do\"",
-        "next": "Gentlemen, the camera doesn't lie",
-        "multiplicity": 1
-      },
-      {
-        "prev": "But I'm not sure what you think the bureau can do\"",
-        "lyric": "Gentlemen, the camera doesn't lie",
-        "next": "How many more innocent women must die?",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Gentlemen, the camera doesn't lie",
-        "lyric": "How many more innocent women must die?",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I will rise to this occasion",
-        "lyric": "I will rise, rise to this occasion",
-        "next": "I will rise, rise, rise, rise, rise to this occasion",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I will rise, rise to this occasion",
-        "lyric": "I will rise, rise, rise, rise, rise to this occasion",
-        "next": "",
-        "multiplicity": 1
-      }
-    ],
-    "Going to Fennario": [
-      {
-        "prev": "",
-        "lyric": "Now children, gather 'round, as we lay Sweet William down",
-        "next": "to sing him to his final shore",
-        "multiplicity": 4
-      },
-      {
-        "prev": "Now children, gather 'round, as we lay Sweet William down",
-        "lyric": "to sing him to his final shore",
-        "next": "and sing a song for me, and for these men, forever free",
-        "multiplicity": 4
-      },
-      {
-        "prev": "to sing him to his final shore",
-        "lyric": "and sing a song for me, and for these men, forever free",
-        "next": "to sail without a captain evermore",
-        "multiplicity": 4
-      },
-      {
-        "prev": "and sing a song for me, and for these men, forever free",
-        "lyric": "to sail without a captain evermore",
-        "next": "to sail without a captain evermore",
-        "multiplicity": 4
-      },
-      {
-        "prev": "to sail without a captain evermore",
-        "lyric": "to sail without a captain evermore",
-        "next": "",
-        "multiplicity": 4
-      },
-      {
-        "prev": "",
-        "lyric": "Now when he left this country,",
-        "next": "he had one thing on his mind",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Now when he left this country,",
-        "lyric": "he had one thing on his mind",
-        "next": "to wipe away the memory",
-        "multiplicity": 1
-      },
-      {
-        "prev": "he had one thing on his mind",
-        "lyric": "to wipe away the memory",
-        "next": "of everything he left behind",
-        "multiplicity": 1
-      },
-      {
-        "prev": "to wipe away the memory",
-        "lyric": "of everything he left behind",
-        "next": "no cost too great to shoulder",
-        "multiplicity": 1
-      },
-      {
-        "prev": "of everything he left behind",
-        "lyric": "no cost too great to shoulder",
-        "next": "no burden too high to bear",
-        "multiplicity": 1
-      },
-      {
-        "prev": "no cost too great to shoulder",
-        "lyric": "no burden too high to bear",
-        "next": "I'm going to Fennario",
-        "multiplicity": 1
-      },
-      {
-        "prev": "no burden too high to bear",
-        "lyric": "I'm going to Fennario",
-        "next": "if they have to carry my body there",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I'm going to Fennario",
-        "lyric": "if they have to carry my body there",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "Out on the wild blue ocean",
-        "next": "in the company of thieves",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Out on the wild blue ocean",
-        "lyric": "in the company of thieves",
-        "next": "every man on this planet",
-        "multiplicity": 1
-      },
-      {
-        "prev": "in the company of thieves",
-        "lyric": "every man on this planet",
-        "next": "hopes it knows his name before he leaves",
-        "multiplicity": 1
-      },
-      {
-        "prev": "every man on this planet",
-        "lyric": "hopes it knows his name before he leaves",
-        "next": "try to leave a big impression",
-        "multiplicity": 1
-      },
-      {
-        "prev": "hopes it knows his name before he leaves",
-        "lyric": "try to leave a big impression",
-        "next": "in the mind of every man he meets",
-        "multiplicity": 1
-      },
-      {
-        "prev": "try to leave a big impression",
-        "lyric": "in the mind of every man he meets",
-        "next": "I'm going to Fennario",
-        "multiplicity": 1
-      },
-      {
-        "prev": "in the mind of every man he meets",
-        "lyric": "I'm going to Fennario",
-        "next": "if they have to drag me through the streets",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I'm going to Fennario",
-        "lyric": "if they have to drag me through the streets",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "And sing for the night that lasts forever",
-        "next": "and sing for this man who's gone today",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And sing for the night that lasts forever",
-        "lyric": "and sing for this man who's gone today",
-        "next": "who for his true love's sake left burnt cities in his wake",
-        "multiplicity": 1
-      },
-      {
-        "prev": "and sing for this man who's gone today",
-        "lyric": "who for his true love's sake left burnt cities in his wake",
-        "next": "and killed every good man in his way",
-        "multiplicity": 1
-      },
-      {
-        "prev": "who for his true love's sake left burnt cities in his wake",
-        "lyric": "and killed every good man in his way",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "They're cutting down the timber",
-        "next": "soon all of this is gonna be a memory",
-        "multiplicity": 1
-      },
-      {
-        "prev": "They're cutting down the timber",
-        "lyric": "soon all of this is gonna be a memory",
-        "next": "but there'll just be an empty cabin",
-        "multiplicity": 1
-      },
-      {
-        "prev": "soon all of this is gonna be a memory",
-        "lyric": "but there'll just be an empty cabin",
-        "next": "when the wolf comes by for me",
-        "multiplicity": 1
-      },
-      {
-        "prev": "but there'll just be an empty cabin",
-        "lyric": "when the wolf comes by for me",
-        "next": "pour out liquor for the captain",
-        "multiplicity": 1
-      },
-      {
-        "prev": "when the wolf comes by for me",
-        "lyric": "pour out liquor for the captain",
-        "next": "sing around the fire until the dawn",
-        "multiplicity": 1
-      },
-      {
-        "prev": "pour out liquor for the captain",
-        "lyric": "sing around the fire until the dawn",
-        "next": "I'm going to Fennario",
-        "multiplicity": 1
-      },
-      {
-        "prev": "sing around the fire until the dawn",
-        "lyric": "I'm going to Fennario",
-        "next": "let everybody know I'm gone",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I'm going to Fennario",
-        "lyric": "let everybody know I'm gone",
-        "next": "",
-        "multiplicity": 1
-      }
-    ],
-    "Shallow Grave": [
-      {
-        "prev": "",
-        "lyric": "Bury me in a shallow grave",
-        "next": "Out behind the warehouse rave",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Bury me in a shallow grave",
-        "lyric": "Out behind the warehouse rave",
-        "next": "And while you're having a smoke back there",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Out behind the warehouse rave",
-        "lyric": "And while you're having a smoke back there",
-        "next": "You can think of me while you fix your hair",
-        "multiplicity": 1
-      },
-      {
-        "prev": "And while you're having a smoke back there",
-        "lyric": "You can think of me while you fix your hair",
-        "next": "As you are, so once was I",
-        "multiplicity": 1
-      },
-      {
-        "prev": "You can think of me while you fix your hair",
-        "lyric": "As you are, so once was I",
-        "next": "Stealing time and trying to find the shapes in the night sky",
-        "multiplicity": 1
-      },
-      {
-        "prev": "As you are, so once was I",
-        "lyric": "Stealing time and trying to find the shapes in the night sky",
-        "next": "Shallow Grave",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Stealing time and trying to find the shapes in the night sky",
-        "lyric": "Shallow Grave",
-        "next": "Shallow Grave",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Shallow Grave",
-        "lyric": "Shallow Grave",
-        "next": "Shallow Grave",
-        "multiplicity": 4
-      },
-      {
-        "prev": "Shallow Grave",
-        "lyric": "Shallow Grave",
-        "next": "",
-        "multiplicity": 3
-      },
-      {
-        "prev": "",
-        "lyric": "Bury me so the rain reveals",
-        "next": "What the earth sought to conceal",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Bury me so the rain reveals",
-        "lyric": "What the earth sought to conceal",
-        "next": "Bones that hurt while they were down here",
-        "multiplicity": 1
-      },
-      {
-        "prev": "What the earth sought to conceal",
-        "lyric": "Bones that hurt while they were down here",
-        "next": "Flesh that waited til the coast was clear",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Bones that hurt while they were down here",
-        "lyric": "Flesh that waited til the coast was clear",
-        "next": "Fingers poking up through the ground in the dawn",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Flesh that waited til the coast was clear",
-        "lyric": "Fingers poking up through the ground in the dawn",
-        "next": "Like Carrie White's mom",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Fingers poking up through the ground in the dawn",
-        "lyric": "Like Carrie White's mom",
-        "next": "Shallow Grave",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Like Carrie White's mom",
-        "lyric": "Shallow Grave",
-        "next": "Shallow Grave",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "Shallow grave, out in the middle of things",
-        "next": "Shallow grave, go get a bucket of chicken wings",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Shallow grave, out in the middle of things",
-        "lyric": "Shallow grave, go get a bucket of chicken wings",
-        "next": "Shallow grave, and when you through down the bones",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Shallow grave, go get a bucket of chicken wings",
-        "lyric": "Shallow grave, and when you through down the bones",
-        "next": "Listen for the dial tone",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Shallow grave, and when you through down the bones",
-        "lyric": "Listen for the dial tone",
-        "next": "",
-        "multiplicity": 1
-      },
-      {
-        "prev": "",
-        "lyric": "When I've assumed my final form",
-        "next": "Bury me while I'm still warm",
-        "multiplicity": 1
-      },
-      {
-        "prev": "When I've assumed my final form",
-        "lyric": "Bury me while I'm still warm",
-        "next": "Check the scene for prying eyes",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Bury me while I'm still warm",
-        "lyric": "Check the scene for prying eyes",
-        "next": "You know legends live forever, but the camera never lies",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Check the scene for prying eyes",
-        "lyric": "You know legends live forever, but the camera never lies",
-        "next": "Just so we're perfectly clear:",
-        "multiplicity": 1
-      },
-      {
-        "prev": "You know legends live forever, but the camera never lies",
-        "lyric": "Just so we're perfectly clear:",
-        "next": "I was never here",
-        "multiplicity": 1
-      },
-      {
-        "prev": "Just so we're perfectly clear:",
-        "lyric": "I was never here",
-        "next": "Shallow Grave",
-        "multiplicity": 1
-      },
-      {
-        "prev": "I was never here",
-        "lyric": "Shallow Grave",
-        "next": "Shallow Grave",
         "multiplicity": 1
       }
     ]
